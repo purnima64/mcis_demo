@@ -1,0 +1,4 @@
+<?php
+Interface CarInterface
+{
+}
